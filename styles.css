@@ -1,0 +1,32 @@
+.container {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+header {
+    width: auto;
+    min-height: 100px;
+    background-color: brown;
+    
+}
+
+
+nav {
+    
+  
+
+}
+
+ul {
+    list-style-type: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 25px;
+}
