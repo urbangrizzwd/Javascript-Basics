@@ -19,3 +19,7 @@ document.getElementById("demo").innerHTML = txt;
 function buttonFunction() {
     document.write("Great Your tickets have been ordered.");
 } 
+
+function cancleFunction() {
+    alert("Your Tickets have been cancled!");
+}
